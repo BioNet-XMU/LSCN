@@ -1,0 +1,181 @@
+metabolite_name,KEGG ID
+Trimethylamine (TMA),C00565
+Ethanolamine,C00189
+Aminoacetone,C01888
+1-Methylguanidine,C02294
+Glycine,C00037
+Trimethylamine-N-Oxide (TMAO),C01104
+3C13-Glycine,
+Putrescine,C00134
+betaAlanine,C00099
+Alanine,C00041
+Sarcosine,C00213
+4C13-Alanine,
+Betaine Aldehyde,C00576
+Cadaverine,C01672
+3-Aminoisobutyrate,C03284
+Choline,C00114
+Dimethylglycine,C01026
+L-2-Aminobutyric Acid,C02356
+2-Aminoisobutyric Acid,C03665
+2C13-Choline,
+Serine,C00065
+4C13-Serine,
+Hypotaurine,C00519
+Cytosine,C00380
+Histamine,C00388
+Creatinine,C00791
+"5,6-Dihydrouracil",C00429
+Proline,C00148
+d3-Creatinine,
+5-Aminovaleric Acid,C00431
+Betaine,C00719
+Valine,C00183
+Indole,C00463
+Threonine,C00188
+Cysteine,C00097
+6C13-Proline,
+Niacinamide,C00153
+6C13-Valine,
+5C13-Threonine,
+Taurine,C00245
+1-Methylhistamine,C05127
+Imidazoleacetic Acid,C02835
+"5,6-Dihydrothymine",C00906
+Pyroglutamic Acid,C01879
+Pipecolate,C00408
+Agmatine,C00179
+N-Acetylputrescine,C02714
+Creatine,C00300
+Hydroxyproline,C01157
+Aminolevulinate,C00430
+Leucine /D-Norleucine,C00123
+iso-Leucine /allo-isoLeucine,C00407/C21096
+Ornithine,C01602
+Asparagine,C00152
+Aspartic Acid,C00049
+Homocysteine,C00155
+S-Methylcysteine,C22040
+1-Methylnicotinamide,C02918
+Tyramine,C00483
+4-Aminobenzoic Acid,C00568
+Trigonelline,C01004
+5C13-Aspartic Acid,
+6C13-Asparagine,
+7C13-Leucine,
+7C13-iso-Leucine,
+1-Methylimidazole Acetate,C20522
+Imidazole Propionate,C00315
+Spermidine,C01035
+4-Guanidinobutanoate,C01996
+Acetylcholine,C00064
+Glutamine,C00047
+Lysine,C01181
+Deoxycarnitine,C00025
+Glutamic acid,C00073
+Methionine,C00073
+2C13-Glutamic acid,
+Guanine,C00242
+Cystamine,N/A
+7C13-Glutamine,
+6C13-Glutamic acid,
+8C13-Lysine,
+6C13-Methionine,
+Histidine,C00135
+Serotonin,C00780
+Tryptamine,C00398
+Carnitine,C00487
+9C13-Histidine,
+Phenylalanine,C00079
+Methionine Sulfoxide,C02989
+7-Methylguanine,C02242
+Normetanephrine,C05589
+Taurocyamine,C01959
+Pyridoxamine,C00534
+1/3-Methylhistidine,C01152
+Norepinephrine,C00547
+n-Glycylproline,N/A
+Arginine,C00062
+N-Acetylornithine,C00437
+10C13-Phenylalanine,
+Cotinine,N/A
+Cysteinyl-Glycine (Cys-Gly),C01419
+Gluconolactone,C00198
+Glucosamine,C00329
+Theobromine,C07480
+"1,7-Dimethylxanthine",C13747
+Tyrosine,C00082
+Epinephrine,C00788
+Se-Methylselenocysteine,C05689
+2C13-Tyrosine,
+Phosphorylcholine,C00588
+10C13-Arginine,
+N6-Acetyl-Lysine,C02727
+Homoarginine,C01924
+N6-Trimethyllysine,C03793
+Homocitrulline,C02427
+10C13-Tyrosine,
+Caffeine,C07481
+Salicylurate,C07588
+DL DOPA,C00355
+Selenomethionine,C05335
+Dimethylarginine (A/SDMA),C03626
+Spermine,C00750
+3-Indolebutyric Acid,C11284
+Acetylcarnitine,C02571
+Tryptophan,C00078
+L-Kynurenine,C00328
+Phosphocreatine,C02305
+N-Ac-Arginine,N/A
+13C13-Tryptophan,
+Carnosine,C00386
+2'-Deoxycytidine,C00881
+2'-Deoxyuridine,C00526
+Biopterin,C06313
+Anserine,C01262
+Cystine,C00491
+Cytidine,C00475
+Uridine,C00299
+isoValerylcarnitine,C20826
+8C13-Cystine,
+Neopterin,C05926
+11C13-Uridine,
+Glycerophosphocholine,C00670
+5-Methylcytidine,N/A
+Phosphotyrosine,C06501
+Succinylcarnitine,N/A
+Thiamine,C00378
+"2,3-Diphosphoglyceric Acid",C01159
+Deoxyguanosine,C00330
+Adenosine,C00212
+Inosine,C00294
+Glutarylcarnitine,N/A
+1-Methyladenosine,C02494
+6-Methyladenosine,N/A
+Guanosine,C00387
+Retinal,C00376
+Retinol,C19962
+Argininosuccinate,C03406
+5'-Methylthioadenosine,C00170
+"N2,N2-Dimethylguanosine",N/A
+UMP,C00105
+cAMP,C00575
+GMP,C00144
+Riboflavin,C00255
+SAH,C00021
+Cholecalciferol,C05443
+Ergocalciferol,C05441
+S-Adenosylmethionine (SAM),C00019
+CDP,C00112
+Thiamine pyrophosphate,C00068
+Folic Acid,C00504
+Vitamin K1,C02059
+Biliverdin,C00500
+NAD,C00003
+Methylcobalamin,C06453
+Cyanocobalamin (Vitamin B12),C02823
+NADPH,C00005
+Thyroxine,C01829
+FAD,C00016
+Adenosylcobalamin,C00194
+Ubiquinol,C11378

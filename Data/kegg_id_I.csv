@@ -1,0 +1,85 @@
+metabolite_name,KEGG ID
+L-alanine,C00041
+L-arginine,C00062
+L-asparagine,C00152
+L-aspartate,C00049
+L-cysteine,C00097
+L-glutamate,C00025
+L-glutamine,C00064
+glycine,C00037
+L-histidine,C00135
+L-leucine/L-isoleucine,C00123
+L-lysine,C00047
+L-methionine,C00073
+L-phenylalanine,C00079
+L-proline,C00148
+L-serine,C00065
+L-threonine,C00188
+L-tryptophan,C00078
+L-tyrosine,C00082
+L-valine,C00183
+L-cystine,C00491
+AMP,C00020
+dAMP,C00360
+Adenosine,C00212
+Adenine,C00147
+GMP,C00144
+Cytosine,C00380
+dTMP,C00364
+Uracil,C00106
+IMP,C00130
+Hypoxanthine,C00262
+Allantoate,C00499
+"3',5'-Cyclic AMP",C00575
+Pyridoxal,C00250
+Nicotinamide,C00153
+NAD+,C00003
+Glutathione,C00051
+Glutathione disulfide,C00127
+Cys-Gly,C01419
+gamma-L-Glutamyl-D-alanine,C03738
+gamma-Glutamyl-gamma-aminobutyrate,C15767
+S-Adenosyl-L-homocysteine,C00021
+Ornithine,C01602
+Putrescine,C00134
+Spermidine,C00315
+Spermine,C00750
+N-Glycoloyl-neuraminate,C03410
+Homocarnosine,C00884
+Creatine,C00300
+Creatinine,C00791
+Guanidinoacetate,C00581
+Pantothenol,C00864
+Pantetheine,C00831
+Hypotaurine,C00519
+L-Methionine S-oxide,C02989
+5-Hydroxyindoleacetate,C05635
+Indole,C00463
+Indole-3-acetaldehyde,C00637
+Indolepyruvate,C00331
+6-Hydroxykynurenic acid,C08480
+kynurenine,C00328
+N-formyl kynurenine,C02700
+Picolinic acid,C10164
+2-Aminomuconate,C02220
+8-Methoxykynurenate,C05830
+L-Adrenaline,C00788
+Ectoine,C06231
+Ethanolamine phosphate,C00346
+N-Methylethanolamine phosphate,C01210
+Acetylcholine,C01996
+Choline,C00114
+acyl-C2 (acetyl-carnitine),C02571
+acyl-C3 (propionyl-carnitine),C03017
+acyl-C4 (butanoyl-l-carnitine),C02862
+acyl-C4-DC,HMDB13133
+acyl-C5 (isovalerylcarnitine),C20826
+acyl-C5-OH,ac107
+acyl-C6 (hexanoyl-l-carnitine),HMDB00756
+acyl-C8 (L-octanoylcarnitine,HMDB00791
+acyl-C8:1 (octenoyl-l-carnitine),ac111
+acyl-C10:1 (O-Decenoyl-L-carnitine),CID57357170
+Tryptophan 13C11,C00078
+Indole-Pyruvate 13C11,C00331
+L-Formylkynurenine 13C11,C02700
+Kynurenine 13C10,C00328
