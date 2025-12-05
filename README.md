@@ -6,7 +6,7 @@
 # Workflow of LSCN
 
 <div align=center>
-<img src="[LSCN/LSCN_Workflow.png at main · BioNet-XMU/LSCN · GitHub](https://github.com/BioNet-XMU/LSCN/main/LSCN_Workflow.png)" width="900" /><br/>
+<img src="[LSCN/LSCN_Workflow.png at main · BioNet-XMU/LSCN · GitHub](https://github.com/BioNet-XMU/LSCN/blob/main/LSCN_Workflow.png)" width="900" /><br/>
 </div>
 
 __The workflow of LSCN algorithm__. (a) Sample-specific neighbor set determination by constructing a neighbor network. (b) Intermediate weighted normalization factor calculation. (c) Data updating and iteration.
@@ -281,5 +281,6 @@ print(dilt.factor)
 # Contact
 
 Please contact me if you have any help: fjguo@stu.xmu.edu.cn
+
 
 
